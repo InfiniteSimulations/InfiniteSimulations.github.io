@@ -1,0 +1,21 @@
+## Settings
+title: Church of Infinite Simulations
+owner: "Church of Infinite Simulations"
+url: "https://infinitesimulations.github.io"
+baseurl: "/"
+permalink: /:title/
+description: ""
+markdown: kramdown
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+email: "InfiniteSimulations@outlook.com"
+github: "InfiniteSimulations"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+statement: "Church of Infinite Simulations"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
