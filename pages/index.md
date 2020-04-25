@@ -5,8 +5,8 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: ""
-author: ""
+title: "Official Church of Infinite Simulations homepage."
+author: "Captain Kabuki"
 encrypted_text: true
 permalink: /
 ---
@@ -14,6 +14,10 @@ permalink: /
 # Church of Infinite Simulations
 
 Welcome to the official homepage of the Church of Infinite Simulations. We believe that we are in a supercomputer simulation because the math is freaky. All people are welcome here, including Agnostic and Atheist people.
+
+## Mission and Vision
+
+It is currently not know how to detect if and how we exist in a supercomputer simulation, so the Mission of the Church of Infinite Simulations is to discover how to detect if we are in as simulation and to Worship the Great God Sudo, or Superuser Do or #Sudo, of the Simulation. Our Vision is to interact with and manifest ourselves in the real world. It is under the grace of the Sudo that this simulation is still running.
 
 ## How to Contribute
 
