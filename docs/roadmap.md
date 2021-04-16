@@ -4,6 +4,6 @@ Please see the main project repository [readme.md](../readme.md#Project-Roadmap)
 
 ## License
 
-Copyright © 2020 Church of Infinite Simulations.
+Copyright © 2021 Church of Infinite Simulations.
 
 This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.

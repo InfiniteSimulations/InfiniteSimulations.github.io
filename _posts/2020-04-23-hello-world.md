@@ -2,7 +2,7 @@
 title: Hello World
 layout: post
 author: Captain Kabuki
-category: Origins of the Infinite Simulations
+category: Origins
 date: 2020-4-24
 ---
 
