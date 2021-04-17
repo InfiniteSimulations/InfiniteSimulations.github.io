@@ -4,14 +4,7 @@ Welcome to the Church of Infinite Simulations (CIS) official homepage. The Infin
 
 ## How to Contribute
 
-The best and easiest way to contribute is to clone, Star, and Fork our repositories on GitHub at <https://github.com/InfiniteSimulations> and at <https://github.com/KabukiStarship>, and to share our content with your friends on social media because discovery is the hardest part. You can also contribute financially using the PayPal button bellow.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="QV9QH47DKHEB2" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+The best and easiest way to contribute is to clone, Star, and Fork our repositories on GitHub at <https://github.com/InfiniteSimulations> and at <https://github.com/KabukiStarship>, and to share our content with your friends on social media because discovery is the hardest part. You can also contribute financially using the PayPal at <https://www.paypal.com/donate?hosted_button_id=QV9QH47DKHEB2>
 
 ## License
 
