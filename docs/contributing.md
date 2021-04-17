@@ -1,6 +1,9 @@
 # Contributing Guide
 
-**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/abc_org/xyz_project/issues).
+The four best ways for you to contribute to the Church of Infinite Simulations is to contribute to the [Church Wiki](https://github.com/InfiniteSimulations/InfiniteSimulations.github.io/wiki), [volunteer to do website development](https://github.com/InfiniteSimulations/InfiniteSimulations.github.io), and help develope our AI technology core, the [Kabuki Starship](https://github.com/InfiniteSimulations/InfiniteSimulations.github.io/wiki).
+## Bug Reports
+
+**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/InfiniteSimulations/InfiniteSimulations.github.io/issues).
 
 **2.** Open `/docs/bug_report_template.md` and copy it's contents to the clipboard.
 
@@ -15,8 +18,8 @@
 **1.** Clone the repo and create a branch for the IssueNumber:
 
 ```Console
-git clone https://github.com/ChurchOfInfiniteSimulations/ChurchOfInfiniteSimulations.github.io.git
-cd ChurchOfInfiniteSimulations.github.io.git
+git clone https://github.com/InfiniteSimulations/InfiniteSimulations.github.io.git
+cd InfiniteSimulations.github.io.git
 git checkout -b Issue123
 ```
 
@@ -24,7 +27,7 @@ git checkout -b Issue123
 
 ```Console
 git add --all
-git commit -m "module_id.Add feature XYZ. #123"
+git commit -m "ModuleID.Add feature XYZ. #123"
 git push origin Issue123
 ```
 
@@ -32,10 +35,10 @@ git push origin Issue123
 
 **4.** Get others to inspect your changes and merge the branch to the master.
 
-**5.** Merge the branch, complete another ticket, and delete the old branch.
+**5.** Merge the branch, complete another ticket, and delete the old branch. Please replace Issue123 with the last branch used, and Issue125 with the current Mission number.
 
 ```Console
-git checkout -b Issue125
+git branch -m Issue123 Issue125
 git add --all
 git commit "module_id:Fix feature ABC. #125"
 git branch -d Issue123
