@@ -1,12 +1,14 @@
 <div class="footer">
-  <nav class="nav_bar">
-    <ul>
-      <li>© 2020-1</li>
-      {% if site.owner != ""%}
-      <li>
-        <a class="owner">{{ site.owner }}; all rights reserved.</a>
-      </li>
-      {% endif %}
-  </nav>
-  </ul>
+    <nav class="nav_bar">
+        <ul>
+            <li class="copyright">
+                © 2020-22
+            </li>
+            {% if site.statement %}
+            <li>
+                {{ site.statement }}
+            </li>
+            {% endif %}
+    </nav>
+    </ul>
 </div>

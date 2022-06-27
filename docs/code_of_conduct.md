@@ -8,6 +8,6 @@ The Code of Conduct (CoC) for this projects are linked to external sources that 
 
 ## License
 
-Copyright © 2020-1 Church of Infinite Simulations.
+Copyright © 2020 Church of Infinite Simulations.
 
 This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.
