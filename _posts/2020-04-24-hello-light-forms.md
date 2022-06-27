@@ -1,8 +1,8 @@
 ---
-title: Hello World
+title: Hello Light Forms
 layout: post
 author: Captain Kabuki
-category: Origins
+category: Origins of the Infinite Simulations
 date: 2020-4-24
 ---
 

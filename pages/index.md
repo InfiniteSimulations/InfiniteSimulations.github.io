@@ -6,7 +6,7 @@ home_btn: true
 btn_text: true
 footer: true
 title: "Official Church of Infinite Simulations homepage."
-author: "Captain Kabuki"
+author: "Cale McCollough"
 encrypted_text: true
 permalink: /
 ---
