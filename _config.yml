@@ -14,7 +14,7 @@ email: "InfiniteSimulations@outlook.com"
 github: "InfiniteSimulations"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Proving we are or are not in a computer simulation."
+statement: "Church of Infinite Simulations"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
